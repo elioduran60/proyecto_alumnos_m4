@@ -1,4 +1,4 @@
-package com.alumonsm4.modelos;
+package com.alumnosm4.modelos;
 
 public class Alumno {
 
