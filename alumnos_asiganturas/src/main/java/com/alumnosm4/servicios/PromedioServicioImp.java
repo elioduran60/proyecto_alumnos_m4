@@ -1,4 +1,4 @@
-package com.alumonsm4.servicios;
+package com.alumnosm4.servicios;
 
 public class PromedioServicioImp {
 

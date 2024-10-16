@@ -1,4 +1,4 @@
-package com.alumonsm4.visitas;
+package com.alumnosm4.vistas;
 
 public abstract class MenuTemplate {
 

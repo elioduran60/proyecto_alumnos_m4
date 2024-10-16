@@ -1,4 +1,4 @@
-package com.alumonsm4;
+package com.alumnosm4;
 
 public class Main {
     public static void main(String[] args) {
