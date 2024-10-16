@@ -1,4 +1,4 @@
-package com.alumonsm4.Interfaz;
+package com.alumnosm4.Interfaz;
 
 public interface Interfaz {
 
